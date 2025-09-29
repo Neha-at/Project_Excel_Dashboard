@@ -71,3 +71,5 @@ Improve menu offerings by focusing on best-sellers.
 Reduce waste and cost by tracking low-performing pizzas.
 
 Enhance customer satisfaction through targeted promotions.
+
+<img width="1458" height="868" alt="Dashboard_PizzaSales_Project" src="https://github.com/user-attachments/assets/ac47e33e-8e61-458b-b73f-ebea19bcae1f" />
